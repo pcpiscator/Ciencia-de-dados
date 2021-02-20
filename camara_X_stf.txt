@@ -1,0 +1,515 @@
+Deputado,Partido,Estado,Voto
+Abílio Santana,PL,BA,Sim
+Abou Anni,PSL,SP,Sim
+Acácio Favacho,PROS,AP,Sim
+Adolfo Viana,PSDB,BA,Sim
+Adriana Ventura,NOVO,SP,Não
+Adriano do Baldy,PP,GO,Sim
+Aécio Neves,PSDB,MG,Sim
+Aelton Freitas,PL,MG,Sim
+Afonso Florence,PT,BA,Sim
+Afonso Hamm,PP,RS,Não
+Afonso Motta,PDT,RS,AUSENTE
+Aguinaldo Ribeiro,PP,PB,Sim
+Airton Faleiro,PT,PA,Sim
+AJ Albuquerque,PP,CE,Sim
+Alan Rick,DEM,AC,Não
+Alceu Moreira,MDB,RS,Não
+Alcides Rodrigues,PATRIOTA,GO,Sim
+Alê Silva,PSL,MG,Não
+Alencar S. Braga,PT,SP,Sim
+Alessandro Molon,PSB,RJ,Sim
+Alex Manente,CIDADANIA,SP,Sim
+Alex Santana,PDT,BA,Não
+Alexandre Frota,PSDB,SP,Sim
+Alexandre Leite,DEM,SP,Sim
+Alexandre Padilha,PT,SP,Sim
+Alexis Fonteyne,NOVO,SP,Não
+Alice Portugal,PCdoB,BA,Sim
+Aliel Machado,PSB,PR,Sim
+Aline Gurgel,REPUBLICANOS,AP,Sim
+Aline Sleutjes,PSL,PR,Não
+Altineu Côrtes,PL,RJ,Sim
+Aluisio Mendes,PSC,MA,Não
+Amaro Neto,REPUBLICANOS,ES,Sim
+André Abdon,PP,AP,Sim
+André de Paula,PSD,PE,Sim
+André Ferreira,PSC,PE,Sim
+André Figueiredo,PDT,CE,Sim
+André Fufuca,PP,MA,Sim
+André Janones,AVANTE,MG,Sim
+Angela Amin,PP,SC,Não
+Aníbal Gomes,DEM,CE,Sim
+Antonio Brito,PSD,BA,Sim
+Arlindo Chinaglia,PT,SP,Sim
+Arnaldo Jardim,CIDADANIA,SP,Sim
+Aroldo Martins,REPUBLICANOS,PR,Sim
+Arthur Lira,PP,AL,PRESIDENTE
+Arthur O. Maia,DEM,BA,Sim
+Átila Lins,PP,AM,Sim
+Átila Lira,PP,PI,Sim
+Augusto Coutinho,SOLIDARIEDADE,PE,Sim
+Áurea Carolina,PSOL,MG,Sim
+Aureo Ribeiro,SOLIDARIEDADE,RJ,Sim
+Bacelar,PODE,BA,Não
+Baleia Rossi,MDB,SP,Sim
+Benedita da Silva,PT,RJ,Sim
+Benes Leocádio,REPUBLICANOS,RN,Sim
+Beto Faro,PT,PA,Sim
+Beto Pereira,PSDB,MS,Sim
+Beto Rosado,PP,RN,Sim
+Bia Cavassa,PSDB,MS,Sim
+Bia Kicis,PSL,DF,Não
+Bibo Nunes,PSL,RS,Não
+Bilac Pinto,DEM,MG,Sim
+Bira do Pindaré,PSB,MA,Sim
+Boca Aberta,PROS,PR,Não
+Bohn Gass,PT,RS,Sim
+Bosco Costa,PL,SE,Sim
+Bosco Saraiva,SOLIDARIEDADE,AM,Sim
+Bozzella,PSL,SP,Sim
+Bruna Furlan,PSDB,SP,Sim
+Cacá Leão,PP,BA,Sim
+Camilo Capiberibe,PSB,AP,Sim
+Cap. Alberto Neto,REPUBLICANOS,AM,Não
+Cap. Fábio Abreu,PL,PI,Não
+Capitão Augusto,PL,SP,Não
+Capitão Wagner,PROS,CE,Não
+Carla Dickson,PROS,RN,Não
+Carla Zambelli,PSL,SP,Não
+Carlos Bezerra,MDB,MT,Sim
+Carlos Chiodini,MDB,SC,Sim
+Carlos Gaguim,DEM,TO,Sim
+Carlos Gomes,REPUBLICANOS,RS,Sim
+Carlos Jordy,PSL,RJ,Não
+Carlos Sampaio,PSDB,SP,Sim
+Carlos Veras,PT,PE,Sim
+Carlos Zarattini,PT,SP,Sim
+Carmen Zanotto,CIDADANIA,SC,Sim
+Caroline de Toni,PSL,SC,Não
+Cássio Andrade,PSB,PA,Sim
+Celina Leão,PP,DF,Sim
+Célio Moura,PT,TO,AUSENTE
+Célio Silveira,PSDB,GO,Abstenção
+Célio Studart,PV,CE,Sim
+Celso Maldaner,MDB,SC,Sim
+Celso Russomanno,REPUBLICANOS,SP,Sim
+Celso Sabino,PSDB,PA,Sim
+Cezinha Madureira,PSD,SP,Sim
+Charles Fernandes,PSD,BA,Sim
+Charlles Evangelis,PSL,MG,Não
+Chico D´Angelo,PDT,RJ,Sim
+Chiquinho Brazão,AVANTE,RJ,Sim
+Chris Tonietto,PSL,RJ), AUSENTE
+Christiane Yared,PL,PR,Sim
+Christino Aureo,PP,RJ,Sim
+Clarissa Garotinho,PROS,RJ,Sim
+Claudio Cajado,PP,BA,Sim
+Cleber Verde,REPUBLICANOS,MA,Sim
+Coronel Armando,PSL,SC,Não
+Coronel Tadeu,PSL,SP,Não
+CoronelChrisóstom,PSL,RO,Não
+Cristiano Vale,PL,PA,Sim
+Da Vitória,CIDADANIA,ES,Não
+Dagoberto Nogueira,PDT,MS,Sim
+Damião Feliciano,PDT,PB), AUSENTE
+Daniel Almeida,PCdoB,BA,Sim
+Daniel Coelho,CIDADANIA,PE,Sim
+Daniel Freitas,PSL,SC,Não
+Daniel Silveira,PSL,RJ), AUSENTE
+Daniel Trzeciak,PSDB,RS,Não
+Daniela Waguinho,MDB,RJ,Sim
+Danilo Cabral,PSB,PE,Sim
+Danilo Forte,PSDB,CE,Não
+Danrlei,PSD,RS,Não
+Darci de Matos,PSD,SC,Sim
+David Miranda,PSOL,RJ,Sim
+David Soares,DEM,SP,Sim
+DelAntônioFurtado,PSL,RJ,Não
+Deleg. Éder Mauro,PSD,PA,Não
+Delegado Marcelo,PSL,MG,Sim
+Delegado Pablo,PSL,AM,Não
+Delegado Waldir,PSL,GO,Sim
+Denis Bezerra,PSB,CE,Sim
+Diego Andrade,PSD,MG,Sim
+Diego Garcia,PODE,PR,Não
+Dimas Fabiano,PP,MG,Sim
+Domingos Neto,PSD,CE,Sim
+Domingos Sávio,PSDB,MG,Sim
+Dr Zacharias Calil,DEM,GO,Sim
+Dr. Frederico,PATRIOTA,MG,Não
+Dr. Gonçalo,REPUBLICANOS,MA,Sim
+Dr. Jaziel,PL,CE,Não
+Dr. Leonardo,SOLIDARIEDADE,MT,Sim
+Dr. Luiz Ovando,PSL,MS,Não
+Dr.Luiz Antonio Jr,PP,RJ,Sim
+Dra. Vanda Milani,SOLIDARIEDADE,AC,Sim
+Dra.Soraya Manato,PSL,ES,Não
+Dulce Miranda,MDB,TO,Sim
+Edilazio Junior,PSD,MA,Sim
+Edio Lopes,PL,RR,Sim
+Edna Henrique,PSDB,PB,Sim
+Eduardo Barbosa,PSDB,MG,Sim
+Eduardo Bismarck,PDT,CE,Sim
+Eduardo Costa,PTB,PA,Não
+Eduardo Cury,PSDB,SP,Sim
+Eduardo da Fonte,PP,PE,Sim
+EduardoBolsonaro,PSL,SP,Não
+Efraim Filho,DEM,PB,Sim
+Elcione Barbalho,MDB,PA,Sim
+Eli Borges,SOLIDARIEDADE,TO,Não
+Eli Corrêa Filho,DEM,SP,Sim
+Elias Vaz,PSB,GO,Sim
+Elmar Nascimento,DEM,BA,Sim
+Emanuel Pinheiro N,PTB,MT,Não
+Emidinho Madeira,PSB,MG,AUSENTE
+Enio Verri,PT,PR,Sim
+Enrico Misasi,PV,SP,Não
+Erika Kokay,PT,DF,Sim
+Eros Biondini,PROS,MG,Não
+EuclydesPettersen,PSC,MG,Sim
+Evair de Melo,PP,ES,Sim
+Expedito Netto,PSD,RO,Sim
+Fábio Henrique,PDT,SE,Sim
+Fábio Mitidieri,PSD,SE,Sim
+Fábio Ramalho,MDB,MG,Sim
+Fabio Reis,MDB,SE,Sim
+Fabio Schiochet,PSL,SC,Não
+Fábio Trad,PSD,MS,Sim
+Fausto Pinato,PP,SP,Sim
+Felício Laterça,PSL,RJ,Sim
+Felipe Carreras,PSB,PE,Sim
+Felipe Rigoni,PSB,ES,Sim
+FelipeFrancischini,PSL,PR,Sim
+Félix Mendonça Jr,PDT,BA,Sim
+FernandaMelchionna,PSOL,RS,Sim
+Fernando Coelho,DEM,PE,Sim
+FernandoMonteiro,PP,PE,Sim
+FernandoRodolfo,PL,PE,Sim
+Filipe Barros,PSL,PR,Não
+Flávia Arruda,PL,DF,Sim
+Flávia Morais,PDT,GO,Sim
+Flaviano Melo,MDB,AC,Sim
+Flávio Nogueira,PDT,PI,Sim
+Flordelis,PSD,RJ), AUSENTE
+Francisco Jr.,PSD,GO,Não
+Franco Cartafina,PP,MG,Sim
+Fred Costa,PATRIOTA,MG,Sim
+Frei Anastacio,PT,PB,Sim
+Gastão Vieira,PROS,MA,Sim
+Gelson Azevedo,PL,RJ), AUSENTE
+Genecias Noronha,SOLIDARIEDADE,CE,Sim
+General Girão,PSL,RN,Não
+General Peternelli,PSL,SP,Não
+Geninho Zuliani,DEM,SP,Sim
+Geovania de Sá,PSDB,SC,Sim
+Gervásio Maia,PSB,PB,Sim
+Giacobo,PL,PR,Sim
+Gil Cutrim,PDT,MA,Sim
+Gilberto Abramo,REPUBLICANOS,MG,Sim
+GilbertoNasciment,PSC,SP,Não
+Gilson Marques,NOVO,SC,Não
+Giovani Cherini,PL,RS,Sim
+Giovani Feltes,MDB,RS,Sim
+Glauber Braga,PSOL,RJ,Sim
+Glaustin da Fokus,PSC,GO,Sim
+Gleisi Hoffmann,PT,PR,Sim
+Gonzaga Patriota,PSB,PE,Sim
+Gorete Pereira,PL,CE,Sim
+Greyce Elias,AVANTE,MG,Sim
+Guiga Peixoto,PSL,SP,Não
+Guilherme Derrite,PP,SP,Não
+Guilherme Mussi,PP,SP,Sim
+Gurgel,PSL,RJ), AUSENTE
+Gustavo Fruet,PDT,PR,Sim
+Gustinho Ribeiro,SOLIDARIEDADE,SE,Sim
+Gutemberg Reis,MDB,RJ,Sim
+Haroldo Cathedral,PSD,RR,Sim
+Heitor Freire,PSL,CE,Não
+Heitor Schuch,PSB,RS,Sim
+Helder Salomão,PT,ES,Sim
+Hélio Costa,REPUBLICANOS,SC,Não
+Hélio Leite,DEM,PA,Sim
+Helio Lopes,PSL,RJ,Não
+Henrique Fontana,PT,RS,Sim
+Hercílio Diniz,MDB,MG,Sim
+Herculano Passos,MDB,SP,Sim
+HermesParcianello,MDB,PR,Sim
+Hildo Rocha,MDB,MA,Não
+Hiran Gonçalves,PP,RR,Sim
+Hugo Leal,PSD,RJ,Não
+Hugo Motta,REPUBLICANOS,PB,Sim
+Idilvan Alencar,PDT,CE,Sim
+Igor Kannário,DEM,BA,Sim
+Igor Timo,PODE,MG), AUSENTE
+Iracema Portella,PP,PI,Sim
+Isnaldo Bulhões Jr,MDB,AL,Sim
+Israel Batista,PV,DF,Sim
+Ivan Valente,PSOL,SP,Sim
+Jandira Feghali,PCdoB,RJ,Sim
+Jaqueline Cassol,PP,RO,Sim
+Jefferson Campos,PSB,SP,Não
+Jerônimo Goergen,PP,RS,Não
+Jéssica Sales,MDB,AC,Sim
+Jesus Sérgio,PDT,AC,Sim
+Jhonatan de Jesus,REPUBLICANOS,RR,Sim
+João C. Bacelar,PL,BA,Sim
+João Campos,REPUBLICANOS,GO,Sim
+João Daniel,PT,SE,Sim
+João Maia,PL,RN,Sim
+João Marcelo S.,MDB,MA,Sim
+João Roma,REPUBLICANOS,BA,AUSENTE
+JoaquimPassarinho,PSD,PA,Não
+Joenia Wapichana,REDE,RR,Sim
+Joice Hasselmann,PSL,SP,Sim
+Jorge Braz,REPUBLICANOS,RJ,Sim
+Jorge Solla,PT,BA,Sim
+José Airton,PT,CE,Sim
+José Guimarães,PT,CE,Sim
+Jose Mario Schrein,DEM,GO,Sim
+José Medeiros,PODE,MT,Não
+José Nelto,PODE,GO,Sim
+José Nunes,PSD,BA,Sim
+José Priante,MDB,PA,Sim
+José Ricardo,PT,AM,Sim
+José Rocha,PL,BA,Não
+Joseildo Ramos,PT,BA,Sim
+JosimarMaranhãozi,PL,MA,Sim
+Josivaldo JP,PODE,MA,Não
+Juarez Costa,MDB,MT,Sim
+Julian Lemos,PSL,PB,Sim
+Júlio Cesar,PSD,PI,Sim
+Julio Cesar Ribeir,REPUBLICANOS,DF,Sim
+Júlio Delgado,PSB,MG,Sim
+Juninho do Pneu,DEM,RJ,Sim
+Junio Amaral,PSL,MG,Não
+Júnior Ferrari,PSD,PA,Sim
+Junior Lourenço,PL,MA)
+Júnior Mano,PL,CE,Sim
+Juscelino Filho,DEM,MA,Abstenção
+Kim Kataguiri,DEM,SP,Não
+Laercio Oliveira,PP,SE,Sim
+Lafayette Andrada,REPUBLICANOS,MG,Sim
+Lauriete,PSC,ES,Não
+Leandre,PV,PR,Sim
+Leda Sadala,AVANTE,AP,Não
+Leo de Brito,PT,AC,Sim
+Léo Moraes,PODE,RO,Não
+Léo Motta,PSL,MG,Não
+Leonardo Monteiro,PT,MG,Sim
+Leônidas Cristino,PDT,CE,Sim
+Leur Lomanto Jr.,DEM,BA,Sim
+Lídice da Mata,PSB,BA,Sim
+Lincoln Portela,PL,MG,Não
+Liziane Bayer,PSB,RS,Não
+Loester Trutis,PSL,MS,Não
+Lourival Gomes,PSL,RJ,Sim
+Lucas Gonzalez,NOVO,MG,Não
+Lucas Redecker,PSDB,RS,Não
+Lucas Vergilio,SOLIDARIEDADE,GO,Sim
+Luciano Bivar,PSL,PE,Sim
+Luciano Ducci,PSB,PR,Sim
+Lucio Mosquini,MDB,RO,Não
+Luis Miranda,DEM,DF,Sim
+Luis Tibé,AVANTE,MG,Sim
+Luisa Canziani,PTB,PR,Não
+Luiz Carlos,PSDB,AP,Sim
+Luiz Carlos Motta,PL,SP,Sim
+Luiz Lima,PSL,RJ,Não
+Luiz Nishimori,PL,PR,Sim
+Luiz P. O.Bragança,PSL,SP,Não
+Luiza Erundina,PSOL,SP,Sim
+LuizAntônioCorrêa,PL,RJ,Não
+Luizão Goulart,REPUBLICANOS,PR,Sim
+Magda Mofatto,PL,GO,Sim
+Major Fabiana,PSL,RJ,Não
+Mara Rocha,PSDB,AC,Não
+Marcel van Hattem,NOVO,RS,Não
+Marcelo Álvaro,PSL,MG,Não
+Marcelo Aro,PP,MG,Sim
+Marcelo Brum,PSL,RS,Não
+Marcelo Calero,CIDADANIA,RJ,Sim
+Marcelo Freixo,PSOL,RJ,Sim
+Marcelo Moraes,PTB,RS,Não
+Marcelo Nilo,PSB,BA,Sim
+Marcelo Ramos,PL,AM,Sim
+Marcio Alvino,PL,SP,Sim
+Márcio Biolchi,MDB,RS,Sim
+Márcio Labre,PSL,RJ,Não
+Márcio Marinho,REPUBLICANOS,BA,Sim
+Marco Bertaiolli,PSD,SP,Sim
+Marcon,PT,RS,Sim
+Marcos A. Sampaio,MDB,PI,Sim
+Marcos Pereira,REPUBLICANOS,SP,Sim
+Marcos Soares,DEM,RJ,Sim
+Margarete Coelho,PP,PI,Sim
+Maria do Rosário,PT,RS,Sim
+Maria Rosas,REPUBLICANOS,SP,Sim
+Mariana Carvalho,PSDB,RO,Sim
+Marília Arraes,PT,PE,Sim
+Marina Santos,SOLIDARIEDADE,PI,Sim
+Mário Heringer,PDT,MG,Sim
+MárioNegromonte Jr,PP,BA,Sim
+Marlon Santos,PDT,RS,Não
+Marreca Filho,PATRIOTA,MA,Sim
+Marx Beltrão,PSD,AL,Sim
+Maurício Dziedrick,PTB,RS,Não
+Mauro Lopes,MDB,MG,Sim
+Mauro Nazif,PSB,RO,Sim
+Merlong Solano,PT,PI,Sim
+Miguel Lombardi,PL,SP,Sim
+Milton Coelho,PSB,PE,Sim
+Milton Vieira,REPUBLICANOS,SP,Sim
+Misael Varella,PSD,MG,AUSENTE
+Moses Rodrigues,MDB,CE,Sim
+Natália Bonavides,PT,RN,Sim
+Nelson Barbudo,PSL,MT,Não
+Nereu Crispim,PSL,RS,AUSENTE
+Neri Geller,PP,MT,Sim
+Neucimar Fraga,PSD,ES,Não
+Newton Cardoso Jr,MDB,MG,Abstenção
+Nicoletti,PSL,RR,Não
+Nilson Pinto,PSDB,PA,Sim
+Nilto Tatto,PT,SP,Sim
+Nivaldo Albuquerq,PTB,AL,Não
+Norma Ayub,DEM,ES,Não
+Odair Cunha,PT,MG,Sim
+Olival Marques,DEM,PA,Sim
+Orlando Silva,PCdoB,SP,Sim
+Osires Damaso,PSC,TO,Não
+Osmar Terra,MDB,RS,Não
+Ossesio Silva,REPUBLICANOS,PE,Sim
+Otoni de Paula,PSC,RJ,Não
+Ottaci Nascimento,SOLIDARIEDADE,RR,Sim
+Otto Alencar,PSD,BA,Sim
+Padre João,PT,MG,Sim
+Pastor Eurico,PATRIOTA,PE,Não
+Pastor Gil,PL,MA,Não
+Pastor Isidório,AVANTE,BA,Sim
+Patrus Ananias,PT,MG,Sim
+Paula Belmonte,CIDADANIA,DF,Não
+Paulão,PT,AL,Sim
+Paulo Abi Ackel,PSDB,MG,Sim
+Paulo Azi,DEM,BA,Sim
+Paulo Bengtson,PTB,PA,Não
+Paulo Freire Costa,PL,SP,Sim
+Paulo Ganime,NOVO,RJ,Não
+Paulo Guedes,PT,MG,Sim
+Paulo Magalhães,PSD,BA,Sim
+Paulo Martins,PSC,PR,Não
+Paulo Pereira,SOLIDARIEDADE,SP,Sim
+Paulo Pimenta,PT,RS,Sim
+Paulo Ramos,PDT,RJ,Sim
+Paulo Teixeira,PT,SP,Sim
+Pedro A Bezerra,PTB,CE,Sim
+Pedro Augusto,PSD,RJ,Sim
+Pedro Cunha Lima,PSDB,PB,Não
+Pedro Lucas Fernan,PTB,MA,Sim
+Pedro Lupion,DEM,PR,Não
+Pedro Uczai,PT,SC,Sim
+Pedro Vilela,PSDB,AL,Sim
+Pedro Westphalen,PP,RS,Não
+Perpétua Almeida,PCdoB,AC,Sim
+Pinheirinho,PP,MG,Sim
+Policial Sastre,PL,SP,Não
+Pompeo de Mattos,PDT,RS,Sim
+Pr Marco Feliciano,REPUBLICANOS,SP,Não
+Prof Marcivania,PCdoB,AP,Sim
+Profª Dorinha,DEM,TO,Sim
+Profª Rosa Neide,PT,MT,Sim
+Professor Alcides,PP,GO,Sim
+Professor Joziel,PSL,RJ,Não
+Professora Dayane,PSL,BA,Sim
+Rafael Motta,PSB,RN,Sim
+Raimundo Costa,PL,BA,Sim
+Raul Henry,MDB,PE,Sim
+Reginaldo Lopes,PT,MG,Sim
+Rejane Dias,PT,PI,Sim
+Renata Abreu,PODE,SP,Não
+Renildo Calheiros,PCdoB,PE,Sim
+Ricardo Barros,PP,PR,Não
+Ricardo da Karol,PSC,RJ,Não
+Ricardo Guidi,PSD,SC,Sim
+Ricardo Izar,PP,SP,Sim
+Ricardo Silva,PSB,SP,Sim
+Ricardo Teobaldo,PODE,PE,Sim
+Robério Monteiro,PDT,CE,Sim
+Roberto Alves,REPUBLICANOS,SP,Sim
+Roberto de Lucena,PODE,SP,Não
+Rodrigo Agostinho,PSB,SP,Sim
+Rodrigo Coelho,PSB,SC,Não
+Rodrigo de Castro,PSDB,MG,Sim
+Rodrigo Maia,DEM,RJ,Sim
+Rogério Correia,PT,MG,Sim
+Rogério Peninha,MDB,SC,Não
+Roman,PATRIOTA,PR,AUSENTE
+Ronaldo Carletto,PP,BA,Sim
+Rosana Valle,PSB,SP,Não
+Rosangela Gomes,REPUBLICANOS,RJ,Sim
+Rose Modesto,PSDB,MS,Sim
+Rubens Bueno,CIDADANIA,PR,Sim
+Rubens Otoni,PT,GO,Sim
+Rui Falcão,PT,SP,Sim
+Ruy Carneiro,PSDB,PB,Sim
+Sâmia Bomfim,PSOL,SP,Sim
+Samuel Moreira,PSDB,SP,Sim
+Sanderson,PSL,RS,Não
+Santini,PTB,RS,Não
+Sargento Fahur,PSD,PR,Não
+Schiavinato,PP,PR,Sim
+Sebastião Oliveira,AVANTE,PE,Sim
+Sérgio Brito,PSD,BA,Sim
+Sergio Souza,MDB,PR,Sim
+Sergio Toledo,PL,AL,Sim
+Severino Pessoa,REPUBLICANOS,AL,Sim
+Shéridan,PSDB,RR,Sim
+Sidney Leite,PSD,AM,Sim
+Silas Câmara,REPUBLICANOS,AM,Sim
+Silvia Cristina,PDT,RO,Sim
+Silvio Costa Filho,REPUBLICANOS,PE,Sim
+Soraya Santos,PL,RJ,Sim
+SóstenesCavalcante,DEM,RJ,Não
+Stefano Aguiar,PSD,MG,Não
+Stephanes Junior,PSD,PR,Não
+SubtenenteGonzaga,PDT,MG,Não
+Tabata Amaral,PDT,SP,Sim
+Tadeu Alencar,PSB,PE,Sim
+Talíria Petrone,PSOL,RJ,Sim
+Ted Conti,PSB,ES,Sim
+Tereza Nelma,PSDB,AL,Sim
+Tiago Dimas,SOLIDARIEDADE,TO,Sim
+Tiago Mitraud,NOVO,MG,Não
+Tiririca,PL,SP,Sim
+Tito,AVANTE,BA,Sim
+ToninhoWandscheer,PROS,PR,Sim
+Túlio Gadêlha,PDT,PE,Sim
+Uldurico Junior,PROS,BA,Não
+Vaidon Oliveira,PROS,CE,Não
+Valdevan Noventa,PL,SE,Sim
+Valmir Assunção,PT,BA,Sim
+Vander Loubet,PT,MS,Sim
+Vanderlei Macris,PSDB,SP,Sim
+Vavá Martins,REPUBLICANOS,PA,Sim
+Vermelho,PSD,PR,Sim
+Vicentinho,PT,SP,Sim
+Vicentinho Júnior,PL,TO,Sim
+Vilson da Fetaemg,PSB,MG,Sim
+Vinicius Carvalho,REPUBLICANOS,SP,Sim
+Vinicius Farah,MDB,RJ,Sim
+Vinicius Gurgel,PL,AP,Sim
+Vinicius Poit,NOVO,SP,Não
+Vitor Hugo,PSL,GO,Não
+Vitor Lippi,PSDB,SP,Sim
+Vivi Reis,PSOL,PA,Sim
+Waldenor Pereira,PT,BA,Sim
+Walter Alves,MDB,RN,Sim
+Weliton Prado,PROS,MG,Sim
+Wellington,PL,PB,Sim
+Wilson Santiago,PTB,PB,Não
+Wolney Queiroz,PDT,PE,Sim
+Zé Carlos,PT,MA,Sim
+Zé Neto,PT,BA,Sim
+Zé Silva,SOLIDARIEDADE,MG,Sim
+Zé Vitor,PL,MG,Sim
+Zeca Dirceu,PT,PR,Sim
+
