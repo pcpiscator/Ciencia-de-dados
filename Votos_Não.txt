@@ -1,0 +1,133 @@
+Adriana Ventura,NOVO,SP
+Afonso Hamm,PP,RS
+Alan Rick,DEM,AC
+Alceu Moreira,MDB,RS
+Alê Silva,PSL,MG
+Alex Santana,PDT,BA
+Alexis Fonteyne,NOVO,SP
+Aline Sleutjes,PSL,PR
+Aluisio Mendes,PSC,MA
+Angela Amin,PP,SC
+Bacelar,PODE,BA
+Bia Kicis,PSL,DF
+Bibo Nunes,PSL,RS
+Boca Aberta,PROS,PR
+Cap. Alberto Neto,REPUBLICANOS,AM
+Cap. Fábio Abreu,PL,PI
+Capitão Augusto,PL,SP
+Capitão Wagner,PROS,CE
+Carla Dickson,PROS,RN
+Carla Zambelli,PSL,SP
+Carlos Jordy,PSL,RJ
+Caroline de Toni,PSL,SC
+Charlles Evangelis,PSL,MG
+Coronel Armando,PSL,SC
+Coronel Tadeu,PSL,SP
+CoronelChrisóstom,PSL,RO
+Da Vitória,CIDADANIA,ES
+Daniel Freitas,PSL,SC
+Daniel Trzeciak,PSDB,RS
+Danilo Forte,PSDB,CE
+Danrlei,PSD,RS
+DelAntônioFurtado,PSL,RJ
+Deleg. Éder Mauro,PSD,PA
+Delegado Pablo,PSL,AM
+Diego Garcia,PODE,PR
+Dr. Frederico,PATRIOTA,MG
+Dr. Jaziel,PL,CE
+Dr. Luiz Ovando,PSL,MS
+Dra.Soraya Manato,PSL,ES
+Eduardo Costa,PTB,PA
+EduardoBolsonaro,PSL,SP
+Eli Borges,SOLIDARIEDADE,TO
+Emanuel Pinheiro N,PTB,MT
+Enrico Misasi,PV,SP
+Eros Biondini,PROS,MG
+Fabio Schiochet,PSL,SC
+Filipe Barros,PSL,PR
+Francisco Jr.,PSD,GO
+General Girão,PSL,RN
+General Peternelli,PSL,SP
+GilbertoNasciment,PSC,SP
+Gilson Marques,NOVO,SC
+Guiga Peixoto,PSL,SP
+Guilherme Derrite,PP,SP
+Heitor Freire,PSL,CE
+Hélio Costa,REPUBLICANOS,SC
+Helio Lopes,PSL,RJ
+Hildo Rocha,MDB,MA
+Hugo Leal,PSD,RJ
+Jefferson Campos,PSB,SP
+Jerônimo Goergen,PP,RS
+JoaquimPassarinho,PSD,PA
+José Medeiros,PODE,MT
+José Rocha,PL,BA
+Josivaldo JP,PODE,MA
+Junio Amaral,PSL,MG
+Kim Kataguiri,DEM,SP
+Lauriete,PSC,ES
+Leda Sadala,AVANTE,AP
+Léo Moraes,PODE,RO
+Léo Motta,PSL,MG
+Lincoln Portela,PL,MG
+Liziane Bayer,PSB,RS
+Loester Trutis,PSL,MS
+Lucas Gonzalez,NOVO,MG
+Lucas Redecker,PSDB,RS
+Lucio Mosquini,MDB,RO
+Luisa Canziani,PTB,PR
+Luiz Lima,PSL,RJ
+Luiz P. O.Bragança,PSL,SP
+LuizAntônioCorrêa,PL,RJ
+Major Fabiana,PSL,RJ
+Mara Rocha,PSDB,AC
+Marcel van Hattem,NOVO,RS
+Marcelo Álvaro,PSL,MG
+Marcelo Brum,PSL,RS
+Marcelo Moraes,PTB,RS
+Márcio Labre,PSL,RJ
+Marlon Santos,PDT,RS
+Maurício Dziedrick,PTB,RS
+Nelson Barbudo,PSL,MT
+Neucimar Fraga,PSD,ES
+Nicoletti,PSL,RR
+Nivaldo Albuquerq,PTB,AL
+Norma Ayub,DEM,ES
+Osires Damaso,PSC,TO
+Osmar Terra,MDB,RS
+Otoni de Paula,PSC,RJ
+Pastor Eurico,PATRIOTA,PE
+Pastor Gil,PL,MA
+Paula Belmonte,CIDADANIA,DF
+Paulo Bengtson,PTB,PA
+Paulo Ganime,NOVO,RJ
+Paulo Martins,PSC,PR
+Pedro Cunha Lima,PSDB,PB
+Pedro Lupion,DEM,PR
+Pedro Westphalen,PP,RS
+Policial Sastre,PL,SP
+Pr Marco Feliciano,REPUBLICANOS,SP
+Professor Joziel,PSL,RJ
+Renata Abreu,PODE,SP
+Ricardo Barros,PP,PR
+Ricardo da Karol,PSC,RJ
+Roberto de Lucena,PODE,SP
+Rodrigo Coelho,PSB,SC
+Rogério Peninha,MDB,SC
+Rosana Valle,PSB,SP
+Sanderson,PSL,RS
+Santini,PTB,RS
+Sargento Fahur,PSD,PR
+SóstenesCavalcante,DEM,RJ
+Stefano Aguiar,PSD,MG
+Stephanes Junior,PSD,PR
+SubtenenteGonzaga,PDT,MG
+Tiago Mitraud,NOVO,MG
+Uldurico Junior,PROS,BA
+Vaidon Oliveira,PROS,CE
+Vinicius Poit,NOVO,SP
+Vitor Hugo,PSL,GO
+Wilson Santiago,PTB,PB
+
+
+
